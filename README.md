@@ -1,2 +1,2 @@
-# 1102exercise6  
+# exercise6  
 slides in the file  
